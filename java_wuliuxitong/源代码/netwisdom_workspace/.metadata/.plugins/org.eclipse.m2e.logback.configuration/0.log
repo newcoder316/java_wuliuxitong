@@ -1,0 +1,1060 @@
+2022-10-07 11:04:12,858 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dev.warehouse:warehouseSys:0.0.1-SNAPSHOT @ \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\pom.xml.
+2022-10-07 11:04:15,449 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 11:04:18,069 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /warehouseSys/src/main/java
+2022-10-07 11:04:18,070 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /warehouseSys/src/main/resources
+2022-10-07 11:04:18,101 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /warehouseSys/src/main/resources
+2022-10-07 11:04:18,133 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /warehouseSys/src/test/java
+2022-10-07 11:04:19,993 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2022-10-07 11:04:29,619 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 11:04:29,950 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:04:30,023 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 11:04:30,169 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 11:04:31,328 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:04:31,329 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:04:35,557 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:04:35,563 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:04:35,564 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:04:35,570 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:04:35,572 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:05:11,310 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:05:11,314 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:05:11,316 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:05:11,328 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:05:11,330 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:05:57,770 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate - \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys
+2022-10-07 11:05:57,774 [Worker-11] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-10-07 11:06:06,247 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:06:06,320 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 11:06:06,430 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 11:06:06,510 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:06:06,511 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:06:29,191 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate - \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys
+2022-10-07 11:06:29,197 [Worker-0] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2022-10-07 11:08:00,916 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate - \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys
+2022-10-07 11:08:00,917 [Worker-7] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B generate-sources
+2022-10-07 11:08:13,725 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate - \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys
+2022-10-07 11:08:13,726 [Worker-12] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2022-10-07 11:08:27,090 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:08:27,160 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 11:08:27,243 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 11:08:27,315 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:08:27,315 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:11:01,690 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 11:11:02,994 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:11:03,055 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 11:11:03,152 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 11:11:03,293 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:11:03,293 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:14:51,719 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 11:14:53,042 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:14:53,074 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 11:14:53,151 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 11:14:53,234 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:14:53,235 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:17:32,494 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:17:32,503 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:17:32,504 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:17:32,510 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:17:32,511 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:32:23,285 [Worker-14] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration PredictionMode.AltAndContextMap references non-existing project warehouseSys.
+org.eclipse.core.runtime.CoreException: Launch configuration PredictionMode.AltAndContextMap references non-existing project warehouseSys.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:309) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2022-10-07 11:32:23,296 [Worker-14] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration PredictionMode.AltAndContextMap references non-existing project warehouseSys.
+org.eclipse.core.runtime.CoreException: Launch configuration PredictionMode.AltAndContextMap references non-existing project warehouseSys.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setDirty(LaunchConfigurationWorkingCopy.java:552) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.setAttribute(LaunchConfigurationWorkingCopy.java:425) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:310) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2022-10-07 11:32:23,311 [Worker-14] ERROR o.e.m.j.i.l.MavenLaunchConfigurationListener - Launch configuration PredictionMode.AltAndContextMap references non-existing project warehouseSys.
+org.eclipse.core.runtime.CoreException: Launch configuration PredictionMode.AltAndContextMap references non-existing project warehouseSys.
+	at org.eclipse.jdt.launching.JavaRuntime.abort(JavaRuntime.java:1408) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.jdt.launching.JavaRuntime.getJavaProject(JavaRuntime.java:1283) ~[org.eclipse.jdt.launching_3.8.101.v20161111-2014.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.updateLaunchConfiguration(MavenLaunchConfigurationListener.java:53) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.launchConfigurationChanged(MavenLaunchConfigurationListener.java:38) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.run(LaunchManager.java:226) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.8.0.v20160509-1230.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager$ConfigurationNotifier.notify(LaunchManager.java:207) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchManager.launchConfigurationChanged(LaunchManager.java:2161) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.writeNewFile(LaunchConfigurationWorkingCopy.java:384) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave0(LaunchConfigurationWorkingCopy.java:250) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:220) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.debug.internal.core.LaunchConfigurationWorkingCopy.doSave(LaunchConfigurationWorkingCopy.java:173) [org.eclipse.debug.core_3.10.100.v20160419-1720.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:311) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenRuntimeClasspathProvider.disable(MavenRuntimeClasspathProvider.java:335) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.jdt.internal.launch.MavenLaunchConfigurationListener.mavenProjectChanged(MavenLaunchConfigurationListener.java:70) [org.eclipse.m2e.jdt_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.notifyProjectChangeListeners(ProjectRegistryManager.java:783) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.applyMutableProjectRegistry(ProjectRegistryManager.java:930) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:98) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob$1.call(ProjectRegistryRefreshJob.java:1) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.execute(MavenImpl.java:1355) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryRefreshJob.run(ProjectRegistryRefreshJob.java:81) [org.eclipse.m2e.core_1.7.0.20160603-1933.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.8.0.v20160509-0411.jar:na]
+2022-10-07 11:34:24,310 [Worker-21] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dev.warehouse:warehouseSys:0.0.1-SNAPSHOT @ \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\pom.xml.
+2022-10-07 11:34:26,633 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 11:34:29,286 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /warehouseSys/src/main/java
+2022-10-07 11:34:29,290 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /warehouseSys/src/main/resources
+2022-10-07 11:34:29,305 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /warehouseSys/src/main/resources
+2022-10-07 11:34:29,320 [Worker-21] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /warehouseSys/src/test/java
+2022-10-07 11:34:29,729 [Worker-21] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 20 sec
+2022-10-07 11:34:37,529 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 11:34:37,843 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:34:37,853 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 11:34:37,930 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 11:34:38,985 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:34:38,987 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:35:02,888 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:35:02,893 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:35:02,895 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 11:35:02,901 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:35:02,902 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 11:39:45,645 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 11:39:58,613 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:39:58,655 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 11:39:58,771 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 11:40:00,819 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 11:40:00,820 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 12:31:02,097 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:31:02,112 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 12:31:02,128 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 12:31:02,128 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:31:02,128 [Worker-204] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 12:37:15,261 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:37:15,267 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 12:37:15,273 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 12:37:15,286 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:37:15,287 [Worker-211] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 12:37:28,881 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:37:28,883 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 12:37:28,885 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 12:37:28,907 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:37:28,908 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 12:38:10,578 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:38:10,581 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 12:38:10,582 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 12:38:10,590 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:38:10,591 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 12:57:04,580 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-07 12:57:05,992 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:57:06,029 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 12:57:06,113 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 244 resources
+2022-10-07 12:57:06,193 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:57:06,194 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 12:57:34,590 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:57:34,603 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 12:57:34,606 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 12:57:34,669 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 12:57:34,669 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 17:42:35,564 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 17:42:35,572 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 17:42:35,573 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-07 17:42:35,581 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 17:42:35,581 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-07 17:42:54,451 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 17:42:54,577 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-07 17:42:54,692 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 246 resources
+2022-10-07 17:42:54,818 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-07 17:42:54,819 [Worker-252] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 13:52:17,631 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:52:17,646 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 13:52:17,646 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 13:52:17,662 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:52:17,662 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 13:52:25,195 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:52:25,195 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 13:52:25,211 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 13:52:25,227 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:52:25,227 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 13:53:10,100 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:53:10,163 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 13:53:10,228 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 246 resources
+2022-10-11 13:53:10,304 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:53:10,304 [Worker-279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 13:53:21,594 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:53:21,610 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 13:53:21,610 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 13:53:21,610 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:53:21,625 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 13:53:43,361 [Worker-285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:53:43,361 [Worker-285] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 13:53:43,361 [Worker-285] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 13:53:43,377 [Worker-285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:53:43,377 [Worker-285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 13:59:18,614 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:59:18,692 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 13:59:18,786 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 246 resources
+2022-10-11 13:59:18,896 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 13:59:18,896 [Worker-289] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 14:14:37,794 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 14:14:37,825 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 14:14:37,903 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 246 resources
+2022-10-11 14:14:39,984 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 14:14:39,984 [Worker-299] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 16:09:04,408 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:09:04,424 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 16:09:04,424 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 16:09:04,440 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:09:04,440 [Worker-302] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 16:11:33,052 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:11:33,052 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 16:11:33,052 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 16:11:33,068 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:11:33,068 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 16:12:09,483 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:12:09,483 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 16:12:09,483 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 16:12:09,499 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:12:09,499 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 16:14:59,167 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:14:59,182 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 16:14:59,182 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 16:14:59,198 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:14:59,198 [Worker-287] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-11 16:16:04,525 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:16:04,525 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-11 16:16:04,525 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-11 16:16:04,541 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-11 16:16:04,541 [Worker-304] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:27:19,909 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.dev.warehouse:warehouseSys:0.0.1-SNAPSHOT @ \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\pom.xml.
+2022-10-15 09:27:22,789 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-15 09:27:25,588 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /warehouseSys/src/main/java
+2022-10-15 09:27:25,590 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /warehouseSys/src/main/resources
+2022-10-15 09:27:25,608 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /warehouseSys/src/main/resources
+2022-10-15 09:27:25,624 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /warehouseSys/src/test/java
+2022-10-15 09:27:25,956 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 18 sec
+2022-10-15 09:27:34,423 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-15 09:27:34,721 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:27:34,750 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:27:34,815 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:27:35,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:27:35,910 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:29:37,241 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:29:37,336 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:29:37,449 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:29:37,545 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:29:37,545 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:29:55,635 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:29:55,707 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:29:55,793 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:29:55,866 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:29:55,867 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:30:08,756 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:30:08,765 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:30:08,788 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:30:10,054 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:30:10,055 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:30:42,129 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:30:42,156 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:30:42,203 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:30:43,284 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:30:43,284 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:32:33,677 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:32:33,759 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:32:33,835 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:32:33,913 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:32:33,914 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:33:44,010 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:33:44,070 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:33:44,140 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:33:44,214 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:33:44,215 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:33:59,535 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:33:59,621 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:33:59,702 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 09:33:59,981 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:33:59,985 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:34:39,759 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:34:39,768 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:34:39,770 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:34:39,776 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:34:39,777 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:34:54,129 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:34:54,131 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:34:54,133 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:34:54,146 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:34:54,147 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:35:09,729 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:35:09,731 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:35:09,733 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:35:09,749 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:35:09,750 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:40:07,439 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:40:07,446 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:40:07,448 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:40:07,469 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:40:07,470 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:42:15,703 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:42:15,706 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:42:15,707 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:42:15,725 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:42:15,726 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:57:09,638 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:57:09,647 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:57:09,650 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:57:09,675 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:57:09,675 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 09:58:15,673 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:58:15,676 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 09:58:15,678 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 09:58:15,691 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 09:58:15,692 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:01:19,865 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:01:19,938 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:01:20,011 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:01:20,109 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:01:20,110 [Worker-79] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:06:25,390 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:06:25,460 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:06:25,532 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:06:25,676 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:06:25,677 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:08:37,902 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:08:37,999 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:08:38,159 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:08:38,362 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:08:38,363 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:09:24,472 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:09:24,544 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:09:24,694 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:09:24,919 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:09:24,920 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:09:58,576 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:09:58,785 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:09:58,861 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:09:58,934 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:09:58,935 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:10:49,408 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:10:49,481 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:10:49,570 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:10:49,657 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:10:49,658 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:13:32,967 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:13:33,045 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:13:33,146 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:13:33,315 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:13:33,316 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:14:05,587 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:14:05,725 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:14:05,822 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:14:05,935 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:14:05,936 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:14:30,055 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:14:30,496 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:14:30,879 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:14:31,529 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:14:31,531 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:15:00,774 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:15:00,908 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:15:01,049 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:15:01,243 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:15:01,244 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:16:20,519 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:16:21,245 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:16:21,895 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:16:22,575 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:16:22,576 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:18:00,933 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:18:01,328 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:18:01,666 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:18:02,351 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:18:02,352 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:22:05,236 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:22:06,017 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:22:06,885 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:22:07,818 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:22:07,820 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:23:23,014 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:23:24,145 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:23:25,300 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:23:26,288 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:23:26,291 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:24:14,138 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:24:15,101 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:24:16,114 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:24:17,276 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:24:17,278 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:24:44,039 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:24:44,926 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:24:45,837 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:24:47,028 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:24:47,031 [Worker-106] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:25:41,692 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:25:41,708 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:25:41,726 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:25:42,766 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:25:42,766 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:40:38,603 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:40:38,621 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:40:38,622 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:40:38,640 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:40:38,641 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:43:03,122 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:43:03,124 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:43:03,126 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:43:03,136 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:43:03,138 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:43:36,452 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:43:36,454 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:43:36,455 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:43:36,466 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:43:36,468 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:46:09,393 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:46:09,395 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:46:09,397 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:46:09,408 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:46:09,408 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:48:54,944 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:48:54,947 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:48:54,948 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:48:54,960 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:48:54,961 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:49:04,980 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:49:04,991 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:49:05,008 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:49:06,599 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:49:06,599 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:56:33,553 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:56:33,566 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:56:33,585 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 10:56:34,635 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:56:34,636 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:56:52,876 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:56:52,879 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:56:52,881 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:56:52,894 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:56:52,895 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:58:33,574 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:58:33,580 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:58:33,582 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:58:33,599 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:58:33,600 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 10:58:55,095 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:58:55,097 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 10:58:55,098 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 10:58:55,112 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 10:58:55,112 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:02:27,284 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:02:27,286 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:02:27,288 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:02:27,300 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:02:27,301 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:07:35,089 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:07:35,096 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:07:35,098 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:07:35,115 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:07:35,116 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:16:34,683 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:16:34,769 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:16:34,841 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 11:16:34,914 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:16:34,915 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:19:43,235 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:19:43,315 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:19:43,405 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 11:19:43,489 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:19:43,489 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:20:53,579 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:20:53,586 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:20:53,588 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:20:53,604 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:20:53,605 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:28:35,251 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:28:35,321 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:28:35,397 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 11:28:35,489 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:28:35,490 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:32:25,789 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:32:25,800 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:32:25,816 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 11:32:26,895 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:32:26,895 [Worker-154] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:33:21,758 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:33:21,761 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:33:21,763 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:33:21,774 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:33:21,775 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:35:42,404 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-15 11:35:44,425 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:35:44,454 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:35:44,538 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 11:35:44,755 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:35:44,756 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:37:20,602 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:37:20,614 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:37:20,633 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 11:37:21,776 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:37:21,779 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:52:03,428 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:52:03,441 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:52:03,444 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:52:03,461 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:52:03,462 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:52:43,306 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:52:43,310 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:52:43,313 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:52:43,330 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:52:43,331 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:56:40,188 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:56:40,195 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:56:40,198 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:56:40,214 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:56:40,214 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 11:58:59,764 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:58:59,768 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 11:58:59,769 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 11:58:59,784 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 11:58:59,785 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:00:36,183 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:00:36,188 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:00:36,190 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:00:36,208 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:00:36,209 [Worker-131] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:02:31,419 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:02:31,426 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:02:31,430 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:02:31,466 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:02:31,466 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:17:22,350 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:17:22,356 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:17:22,358 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:17:22,376 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:17:22,377 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:17:43,088 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:17:43,090 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:17:43,092 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:17:43,106 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:17:43,107 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:17:48,307 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:17:48,310 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:17:48,312 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:17:48,327 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:17:48,328 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:18:43,759 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:18:43,766 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:18:43,770 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:18:43,792 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:18:43,792 [Worker-136] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:19:31,503 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:19:31,504 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:19:31,505 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:19:31,518 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:19:31,519 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:20:53,342 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:20:53,345 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:20:53,346 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:20:53,360 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:20:53,361 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:23:29,317 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:23:29,322 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:23:29,324 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:23:29,340 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:23:29,341 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:25:30,450 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:25:30,452 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:25:30,455 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:25:30,475 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:25:30,475 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:27:33,698 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:27:33,702 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:27:33,704 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:27:33,718 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:27:33,719 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:27:51,104 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:27:51,105 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:27:51,107 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:27:51,123 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:27:51,124 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:29:17,200 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:29:17,202 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:29:17,204 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:29:17,226 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:29:17,227 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:30:47,339 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:30:47,342 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:30:47,344 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:30:47,360 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:30:47,361 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:31:32,819 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:31:32,821 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:31:32,823 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:31:32,836 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:31:32,837 [Worker-138] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:32:43,026 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:32:43,029 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:32:43,031 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:32:43,046 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:32:43,047 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:33:53,306 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:33:53,315 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:33:53,318 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:33:53,336 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:33:53,337 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:39:11,724 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:39:11,728 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:39:11,730 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:39:11,745 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:39:11,745 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:41:59,530 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:41:59,532 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 12:41:59,538 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:41:59,552 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:41:59,553 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 12:42:46,444 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:42:46,458 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 12:42:46,481 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 12:42:47,536 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 12:42:47,537 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:01:55,533 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:01:55,643 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:01:55,706 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 13:01:55,792 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:01:55,792 [Worker-162] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:05:42,013 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:05:42,013 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 13:05:42,029 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:05:42,045 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:05:42,045 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:32:50,404 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:32:50,404 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 13:32:50,404 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:32:50,419 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:32:50,419 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:34:41,915 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:34:41,915 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 13:34:41,915 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:34:41,931 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:34:41,931 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:35:35,229 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:35:35,229 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 13:35:35,229 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:35:35,244 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:35:35,244 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:35:47,002 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:35:47,002 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 13:35:47,002 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:35:47,029 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:35:47,029 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:39:58,711 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:39:58,743 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 13:39:58,743 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:39:58,790 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:39:58,790 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:41:37,393 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:41:37,408 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:41:37,424 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 13:41:38,995 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:41:38,995 [Worker-184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:53:38,493 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:53:38,509 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 13:53:38,509 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:53:38,524 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:53:38,524 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 13:57:21,533 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:57:21,549 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 13:57:21,564 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 13:57:22,562 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 13:57:22,562 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:01:18,940 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:01:18,953 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 14:01:18,953 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:01:18,969 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:01:18,969 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:05:21,036 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:05:21,115 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:05:21,209 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:05:21,287 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:05:21,287 [Worker-195] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:08:52,713 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:08:52,791 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:08:52,869 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:08:52,934 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:08:52,934 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:16:15,149 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:16:15,224 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:16:15,318 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:16:15,434 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:16:15,434 [Worker-212] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:20:08,821 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:20:08,879 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:20:08,957 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:20:09,052 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:20:09,052 [Worker-216] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:20:35,809 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:20:35,887 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:20:35,966 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:20:36,060 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:20:36,060 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:21:06,298 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:21:06,392 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:21:06,458 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:21:06,520 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:21:06,520 [Worker-187] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:21:52,035 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:21:52,098 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:21:52,177 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:21:52,277 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:21:52,277 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:23:33,567 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:23:33,645 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:23:33,707 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-15 14:23:33,770 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:23:33,770 [Worker-215] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:27:03,908 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:27:03,917 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 14:27:03,917 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:27:03,933 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:27:03,933 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:32:57,568 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:32:57,568 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 14:32:57,568 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:32:57,583 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:32:57,583 [Worker-218] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-15 14:35:00,648 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:35:00,648 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-15 14:35:00,648 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-15 14:35:00,664 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-15 14:35:00,664 [Worker-223] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 10:07:51,003 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-17 10:07:52,973 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 10:07:52,998 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 10:07:53,066 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 10:07:53,155 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 10:07:53,156 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:17:36,048 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:17:36,064 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:17:36,064 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:17:36,112 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:17:36,112 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:26:35,891 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:26:35,891 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:26:35,891 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:26:35,906 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:26:35,906 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:35:34,839 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:35:34,855 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:35:34,855 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:35:34,855 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:35:34,871 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:37:37,276 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:37:37,276 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:37:37,276 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:37:37,292 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:37:37,292 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:38:41,424 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:38:41,424 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:38:41,440 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:38:41,455 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:38:41,455 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:41:37,573 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:41:37,573 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:41:37,573 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:41:37,589 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:41:37,602 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:45:01,620 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:45:01,627 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:45:01,627 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:45:01,636 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:45:01,636 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:55:36,054 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:55:36,054 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:55:36,054 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:55:36,075 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:55:36,075 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:56:14,754 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:56:14,754 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:56:14,754 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:56:14,769 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:56:14,769 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 11:57:10,100 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:57:10,100 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 11:57:10,100 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 11:57:10,116 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 11:57:10,116 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 12:04:10,557 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:04:10,651 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 12:04:10,760 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 12:04:10,886 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:04:10,886 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 12:07:54,753 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:07:54,753 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 12:07:54,753 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 12:07:54,769 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:07:54,769 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 12:12:46,195 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:12:46,277 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 12:12:46,371 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 12:12:46,450 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:12:46,450 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 12:24:02,268 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:24:02,339 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 12:24:02,434 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 12:24:02,512 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 12:24:02,512 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:07:43,840 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:07:43,840 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:07:43,840 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:07:43,871 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:07:43,871 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:07:51,727 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:07:51,727 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:07:51,727 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:07:51,743 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:07:51,743 [Worker-144] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:09:24,540 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:09:24,540 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:09:24,553 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:09:24,569 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:09:24,569 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:12:39,272 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:12:39,272 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:12:39,272 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:12:39,304 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:12:39,304 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:13:39,310 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:13:39,326 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:13:39,326 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:13:39,342 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:13:39,342 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:15:23,829 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:15:23,845 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:15:23,845 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:15:23,860 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:15:23,860 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:15:43,921 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:15:43,921 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:15:43,952 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 13:15:45,018 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:15:45,018 [Worker-143] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:25:47,482 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-17 13:25:48,755 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:25:48,781 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:25:48,853 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 13:25:48,950 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:25:48,950 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:32:24,735 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:32:24,752 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:32:24,767 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:32:24,829 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:32:24,829 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:34:53,667 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:34:53,740 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:34:53,856 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 13:34:53,950 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:34:53,950 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:35:27,370 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:35:27,471 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:35:27,544 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 13:35:27,622 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:35:27,638 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:37:36,685 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:37:36,779 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:37:36,842 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 13:37:36,920 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:37:36,920 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:38:20,013 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:38:20,031 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 13:38:20,031 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:38:20,060 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:38:20,060 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 13:38:49,766 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:38:49,798 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 13:38:49,845 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 13:38:51,398 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 13:38:51,398 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 14:26:58,818 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 14:26:58,896 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 14:26:59,006 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 14:26:59,084 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 14:26:59,084 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 14:35:07,997 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 14:35:08,008 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 14:35:08,008 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 14:35:08,027 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 14:35:08,037 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 15:20:11,371 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:20:11,434 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 15:20:11,497 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 15:20:11,575 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:20:11,575 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 15:31:36,807 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:31:36,807 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 15:31:36,807 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 15:31:36,823 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:31:36,823 [Worker-123] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 15:46:20,379 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:46:20,433 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 15:46:20,504 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 15:46:20,582 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:46:20,582 [Worker-127] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 15:47:52,142 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:47:52,205 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 15:47:52,269 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 15:47:52,348 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 15:47:52,348 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 16:01:08,284 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-17 16:01:09,616 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:01:09,642 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 16:01:09,709 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 16:01:09,811 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:01:09,812 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 16:16:15,534 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:16:15,616 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 16:16:15,709 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 16:16:15,795 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:16:15,797 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 16:27:59,814 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:27:59,880 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 16:27:59,968 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 16:28:00,061 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:28:00,061 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 16:31:44,829 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:31:44,902 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 16:31:44,979 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 16:31:45,053 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:31:45,054 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 16:32:59,745 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:32:59,756 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 16:32:59,776 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 16:33:01,292 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:33:01,293 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 16:33:12,494 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:33:12,565 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 16:33:12,637 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 16:33:12,737 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:33:12,738 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 16:44:44,818 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:44:44,845 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 16:44:44,896 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 16:44:45,988 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 16:44:45,989 [Worker-46] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 17:00:04,239 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:00:04,255 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:00:04,255 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 17:00:04,271 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:00:04,271 [Worker-110] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 17:01:07,935 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:01:07,935 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:01:07,935 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 17:01:07,951 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:01:07,951 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 17:02:49,543 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:02:49,543 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-17 17:02:49,543 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 17:02:49,543 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:02:49,543 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-17 17:14:02,788 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:14:02,788 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-17 17:14:02,823 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-17 17:14:03,813 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-17 17:14:03,813 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:03:44,126 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:03:44,201 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:03:44,280 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-18 13:03:44,362 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:03:44,363 [Worker-225] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:18:54,513 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:18:54,585 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:18:54,658 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-18 13:18:54,774 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:18:54,776 [Worker-230] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:19:18,446 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:19:18,472 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:19:18,505 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-18 13:19:19,918 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:19:19,919 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:21:47,391 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:21:47,461 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:21:47,535 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-18 13:21:47,611 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:21:47,611 [Worker-236] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:25:00,704 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:25:00,711 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 13:25:00,713 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:25:00,734 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:25:00,735 [Worker-235] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:25:09,523 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:25:09,526 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 13:25:09,528 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:25:09,539 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:25:09,541 [Worker-233] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:30:28,392 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:30:28,392 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 13:30:28,392 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:30:28,407 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:30:28,407 [Worker-228] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:37:29,074 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:37:29,074 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-10-18 13:37:29,074 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:37:29,089 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:37:29,089 [Worker-245] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 13:37:50,607 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:37:50,620 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 13:37:50,636 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-18 13:37:51,781 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 13:37:51,781 [Worker-232] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 14:47:42,988 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-18 14:47:44,974 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 14:47:45,005 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-18 14:47:45,070 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-18 14:47:45,154 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-18 14:47:45,155 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-18 17:50:39,187 [Worker-123] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-20 11:49:32,481 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-20 11:49:34,523 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 11:49:34,556 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-20 11:49:34,634 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-20 11:49:34,739 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 11:49:34,740 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-20 12:13:06,889 [Worker-9] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-20 12:13:08,949 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 12:13:08,981 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-20 12:13:09,050 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-20 12:13:09,143 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 12:13:09,143 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources
+2022-10-20 12:17:17,295 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.alibaba:druid:jar:1.1.20 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2022-10-20 12:17:18,766 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 12:17:18,797 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-10-20 12:17:18,883 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 247 resources
+2022-10-20 12:17:20,029 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-10-20 12:17:20,030 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory \\MAC\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\warehouseSys\src\test\resources

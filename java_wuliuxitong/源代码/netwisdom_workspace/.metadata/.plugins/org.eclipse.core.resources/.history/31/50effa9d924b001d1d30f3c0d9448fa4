@@ -1,0 +1,133 @@
+package com.dev.warehouse.bus.controller;
+
+
+import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
+import com.baomidou.mybatisplus.core.metadata.IPage;
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
+import com.dev.warehouse.bus.entity.Customer;
+import com.dev.warehouse.bus.entity.Student;
+import com.dev.warehouse.bus.service.ICustomerService;
+import com.dev.warehouse.bus.service.IStudentService;
+import com.dev.warehouse.bus.vo.CustomerVo;
+import com.dev.warehouse.bus.vo.StudentVo;
+import com.dev.warehouse.sys.common.Constast;
+import com.dev.warehouse.sys.common.DataGridView;
+import com.dev.warehouse.sys.common.ResultObj;
+import org.apache.commons.lang3.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import java.io.Serializable;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.List;
+
+@RestController
+@RequestMapping("/student")
+public class StudentController {
+
+    @Autowired
+    private IStudentService studentService;
+
+
+    /**
+     * 查询所有的学生
+     * @param studentVo
+     * @return
+     */
+    @RequestMapping("loadAllStudent")
+    public DataGridView loadAllStudent(StudentVo studentVo){
+        //1.声明一个分页page对象
+        IPage<Customer> page = new Page(studentVo.getPage(),studentVo.getLimit());
+        //2.声明一个queryWrapper
+        QueryWrapper<Customer> queryWrapper = new QueryWrapper();
+        queryWrapper.like(StringUtils.isNotBlank(studentVo.getStudentname()),"studentname",studentVo.getStudentname());
+        queryWrapper.like(StringUtils.isNotBlank(studentVo.getIntro()),"intro",studentVo.getIntro());
+        queryWrapper.like(StringUtils.isNotBlank(studentVo.getPassword()),"password",studentVo.getPassword());
+        studentService.page(page,queryWrapper);
+        return new DataGridView(page.getTotal(),page.getRecords());
+    }
+
+    /**
+     * 添加一个学生
+     * @param customerVo
+     * @return
+     */
+    @RequestMapping("addStudent")
+    public ResultObj StudentVo(StudentVo customerVo){
+        try {
+        	studenService.save(studenVo);
+            return ResultObj.ADD_SUCCESS;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return ResultObj.ADD_ERROR;
+        }
+    }
+
+    /**
+     * 修改一个学生
+     * @param customerVo
+     * @return
+     */
+    @RequestMapping("updateStudent")
+    public ResultObj updateStudent(StudentVo studentVo){
+        try {
+        	studenService.updateById(studentVo);
+            return ResultObj.UPDATE_SUCCESS;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return ResultObj.UPDATE_ERROR;
+        }
+    }
+
+    /**
+     * 删除一个学生
+     * @param name 学生的NAME
+     * @return
+     */
+    @RequestMapping("deleteStudent")
+    public ResultObj deleteStudent(Integer id){
+        try {
+        	studentService.removeById(id);
+            return ResultObj.DELETE_SUCCESS;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return ResultObj.DELETE_ERROR;
+        }
+    }
+
+    /**
+     * 批量删除客户
+     * @param customerVo 选中的客户
+     * @return
+     */
+    @RequestMapping("batchDeleteStudent")
+    public ResultObj batchDeleteCustomer(StudentVo studentVo){
+        try {
+            Collection<Serializable> idList = new ArrayList<Serializable>();
+            for (String studentname : studentVo.getNames()) {
+                studentnamesList.add(studentname);
+            }
+            studentService.removeByIds(idList);
+            return ResultObj.DELETE_SUCCESS;
+        } catch (Exception e) {
+            e.printStackTrace();
+            return ResultObj.DELETE_ERROR;
+        }
+    }
+
+    /**
+     * 加载所有客户的下拉列表
+     * @return
+     */
+    @RequestMapping("loadAllStudentForSelect")
+    public DataGridView loadAllStudentForSelect(){
+        QueryWrapper<Student> queryWrapper = new QueryWrapper<Student>();
+        queryWrapper.eq("available", Constast.AVAILABLE_TRUE);
+        List<Student> list = studentService.list();
+        return new DataGridView(list);
+    }
+
+}
+

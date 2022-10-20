@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c990eb0a-7603-4685-85c2-cb2ce6ba6e76" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven_cang" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.5.3-bin/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.5.3-bin\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YyBxb5lM1SJw1tinI32028q0P4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/code/Coquettishchild-paperTest-master/paperTest" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dev.warehouse.sys.realm" />
+      <recent name="com.dev.warehouse.sys.vo" />
+      <recent name="com.dev.warehouse.bus.cache" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\idea_java_workspace\warehouseSys\src\main" />
+      <recent name="E:\idea_java_workspace\warehouseSys\src\main\java\com\dev\warehouse\bus\service" />
+      <recent name="E:\idea_java_workspace\warehouseSys\src\main\java\com\dev\warehouse\bus\mapper\xml" />
+      <recent name="E:\idea_java_workspace\warehouseSys\src\main\java\com\dev\warehouse\bus\mapper" />
+      <recent name="E:\idea_java_workspace\warehouseSys\src\main\java\com\dev\warehouse\bus\entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="warehouseSys" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.dev.warehouse.WarehouseApplication" />
+      <module name="warehouseSys" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c990eb0a-7603-4685-85c2-cb2ce6ba6e76" name="Default Changelist" comment="" />
+      <created>1583905200621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583905200621</updated>
+      <workItem from="1583905204582" duration="4498000" />
+      <workItem from="1583909801917" duration="9307000" />
+      <workItem from="1583931165995" duration="974000" />
+      <workItem from="1583937145491" duration="1223000" />
+      <workItem from="1583992103201" duration="1153000" />
+      <workItem from="1584073264541" duration="667000" />
+      <workItem from="1584155936702" duration="577000" />
+      <workItem from="1584248408840" duration="1165000" />
+      <workItem from="1584330849166" duration="2600000" />
+      <workItem from="1584598824213" duration="584000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

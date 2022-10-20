@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\ygc_project\eclipse20220521\eclipse" version="1.8.0_40">
+<bootpath>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\resources.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\jfr.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64" version="1.8.0_40">
+<bootpath>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\resources.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\rt.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\sunrsasign.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\jsse.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\jce.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\charsets.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\jfr.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="C:\ygc_project\eclipse20220521\eclipse\jre" version="1.8.0_40">
+<bootpath>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\resources.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\rt.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\sunrsasign.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\jsse.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\jce.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\charsets.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\jfr.jar"/>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\ygc_project\eclipse20220521\eclipse\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre" version="1.8.0_40">
+<bootpath>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\resources.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\rt.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\sunrsasign.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\jsse.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\jce.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\charsets.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\jfr.jar"/>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="\\Mac\Home\Desktop\物se流\物流仓库后台管理系统\物流仓库后台管理系统\源代码\netwisdom_workspace\JDK8_64\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>

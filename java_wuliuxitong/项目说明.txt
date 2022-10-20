@@ -1,0 +1,35 @@
+-----------------------------------------------------------------------
+项目技术:springboot2+mybatisplus+layui+jquery+shiro
+运行环境:jdk8+tomcat8+mysql5.7+Eclipse(neon)+maven3.6
+
+程序入口:localhost:8089/sys/toLogin
+帐号/密码:zuidaima
+-----------------------------------------------------------------------
+项目简介:
+仓库管理系统主要用到的技术有springboot,mybatisplus,shiro。主要角色有超级管理员、基础数据管理员、仓库管理员、销售管理员、系统管理员。不同角色拥有不同的权限，使用shiro完成认证和授权。
+
+该系统主要分为个模块：基础管理模块、进货管理模块、销售管理模块、系统管理模块。基本上除了超级管理员角色外，每一个角色对应管理一个模块。
+
+主要的业务逻辑是管理员从供应商那里可以进货、付款、退货。然后销售可以将货物进行销售。
+-----------------------------------------------------------------------
+注意事项:
+
+1.当出现pom.xml文件报错时，则向setting.xml中添加以下镜像。
+<mirror>
+      
+  <id>nexus-aliyun</id>
+  
+  <mirrorOf>*</mirrorOf>
+   
+  <name>Nexus aliyun</name>
+    
+  <url>http://maven.aliyun.com/nexus/content/groups/public</url>
+ 
+</mirror>
+
+2.按联系人号码搜索供应商结果不对，还是全部数据，是个bug请自行修复
+
+3.上传的图片路径需要修改为本地磁盘目录,配置文件是warehouseSys\src\main\resources
+
+本地上传目录:D:\upload\xxxx-xx-xx\xxxxx.png
+-----------------------------------------------------------------------
